@@ -23,5 +23,5 @@ var RandomPoemScript;
         _objekte.splice(v3, 1);
         return randomSentence;
     }
-})(ScriptRandomPoem || (ScriptRandomPoem = {}));
+})(RandomPoemScript || (RandomPoemScript = {}));
 //# sourceMappingURL=RandomPoemScript.js.map
