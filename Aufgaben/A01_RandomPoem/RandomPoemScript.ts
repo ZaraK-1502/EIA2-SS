@@ -1,4 +1,4 @@
-namespace RandomPoemScript {
+namespace ScriptRandomPoem {
     //Arrays zu Erstellung der Zufallsgedichte
     let subjekt: string [] = ["Rick", "Deryl", "Rosita", "Neagen", "Carol", "Michone", "Judith", "Glenn", "Maggie"];
     let prädikat: string [] = ["tötet", "kämpft", "sticht", "rettet", "verfolgt", "erschlägt", "versteckt", "läuft"];
