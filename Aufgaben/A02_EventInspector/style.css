@@ -1,0 +1,27 @@
+.divs0 {
+    background-color:rgb(6, 235, 235);
+    float: left;
+    margin-right: 10px;
+    margin-left: 150px;
+    width: 550px;
+    height: 550px;
+    position: absolute;
+}
+.divs1 {
+    background-color:rgb(113, 247, 202);
+    float: left;
+    margin-right: 10px;
+    margin-left: 750px;
+    width: 550px;
+    height: 550px;
+    position: absolute;
+}
+
+#cursor {
+    position: fixed;
+    background-color: rgb(6, 67, 179);
+    padding-top: 20px;
+    padding-left: 20px;
+    width: 310px;
+    height: 40px;
+}
