@@ -1,14 +1,7 @@
 
-h1{
-    text-align: center;
-}
-
-
 fieldset
 {
-    width: 400px;
-    margin: auto;
-    
+    width: 300px;
 }
 
 label
