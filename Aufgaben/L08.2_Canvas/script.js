@@ -248,7 +248,7 @@ var AufgabeCanvas;
         crc2.closePath();
         //Blätter
         crc2.beginPath();
-        crc2.moveTo(73, 400);
+        crc2.moveTo(123, 400);
         crc2.quadraticCurveTo(123, 375, 183, 400);
         crc2.moveTo(123, 400);
         crc2.quadraticCurveTo(173, 375, 243, 400);
@@ -264,3 +264,4 @@ var AufgabeCanvas;
     }
     drawPalme1();
 })(AufgabeCanvas || (AufgabeCanvas = {}));
+//# sourceMappingURL=script.js.map
