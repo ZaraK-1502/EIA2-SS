@@ -20,4 +20,4 @@ var Aufgabe10_2;
     }
     Aufgabe10_2.sun = sun;
 })(Aufgabe10_2 || (Aufgabe10_2 = {}));
-//# sourceMappingURL=sun-2.js.map
+//# sourceMappingURL=sun.js.map
